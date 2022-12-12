@@ -1,0 +1,79 @@
+.btn-login{
+    border: 1px solid #008eff;
+    padding: 10px 40px;
+    background: white;
+    color: #008eff;
+    margin-left: 140px;
+    margin-right: 10px;
+}
+
+.btn-registration{
+    border: 1px solid #008eff;
+    padding: 10px 40px;
+    background: white;
+    color: #008eff;
+}
+
+.btn-registration a{
+    text-decoration: none;
+    color: #008eff;
+}
+.btn-login a{
+    text-decoration: none;
+    color: #008eff;
+}
+
+
+.container-form{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+.inpEmail{
+    margin-left: 120px;
+}
+
+.inpConfPassword{
+    margin-left: 3px;
+}
+
+
+.inpEmail input{
+    padding: 5px;
+    font-size: 16px;
+    width: 300px;
+}
+
+.inpPassword input{
+    padding: 5px;
+    font-size: 16px;
+    width: 300px;
+    margin-left: 19px;
+}
+
+.inpConfPassword input{
+    padding: 5px;
+    font-size: 16px;
+    width: 300px;
+}
+
+.btn-submit{
+    margin-top: 25px;
+    margin-left: 220px;
+}
+
+
+
+.btn-google{
+    margin-top: 40px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.btn-facebook{
+    margin-top: 10px;
+    width: 80%;
+    margin-left: 10%;
+}

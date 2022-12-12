@@ -1,0 +1,48 @@
+.btn-login{
+    border: 1px solid #008eff;
+    padding: 10px 40px;
+    background: white;
+    color: #008eff;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.btn-registration{
+    border: 1px solid #008eff;
+    padding: 10px 40px;
+    background: white;
+    color: #008eff;
+}
+
+.btn-registration a{
+    text-decoration: none;
+    color: #008eff;
+}
+
+.container-form{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+.loginImg{
+    margin-left: 50px;
+}
+
+.inpUser{
+    margin-left: 20px;
+}
+
+.inpPassword{
+    margin-left: 39px;
+}
+
+.inpUser input{
+    padding: 5px;
+    font-size: 16px;
+}
+
+.btn-submit{
+    margin-top: 25px;
+    margin-left: 33.3%;
+}
